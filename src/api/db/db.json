@@ -1,0 +1,19 @@
+{
+    "users":[
+        {
+            "id":1,
+            "role":"ADMIN",
+            "email":"admin@gmail.com",
+            "phone":9876543210,
+            "name":"admin",
+            "password":"admin@123"
+        },{
+            "id":2,
+            "role":"PATIENT",
+            "email":"patient@gmail.com",
+            "phone":9876543210,
+            "name":"patieb",
+            "password":"patient@123"
+        }
+    ]
+}
